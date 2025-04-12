@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC 
+      "-//Hibernate/Hibernate Configuration DTD 3.0//EN" 
+      "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+    <session-factory>
+        <!-- Вказуємо драйвер MySQL -->
+        <property name="hibernate.connection.driver_class">com.mysql.cj.jdbc.Driver</property>
+        
+        <!-- URL підключення до бази lab6_db -->
+        <property name="hibernate.connection.url">
+            jdbc:mysql://localhost:3306/lab6_db?useSSL=false&amp;serverTimezone=UTC
+        </property>
+        
+        <!-- Облікові дані для доступу до бази -->
+        <property name="hibernate.connection.username">root</property>
+        <property name="hibernate.connection.password">Olegdzydz2005</property>
+        
+        <!-- Діалект для MySQL -->
+        <property name="hibernate.dialect">org.hibernate.dialect.MySQLDialect</property>
+        
+        <!-- Автоматичне створення/оновлення таблиць -->
+        <property name="hibernate.hbm2ddl.auto">update</property>
+        
+        <!-- Показ SQL-запитів у консолі -->
+        <property name="show_sql">true</property>
+        
+        <!-- Вказуємо сутності -->
+        <mapping class="com.example.Address"/>
+        <mapping class="com.example.Person"/>
+    </session-factory>
+</hibernate-configuration>

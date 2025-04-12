@@ -1,0 +1,7 @@
+com\example\HibernateUtil.class
+com\example\StreamProcessor.class
+com\example\Address.class
+com\example\Main.class
+com\example\CrudTest.class
+com\example\JsonXmlHandler.class
+com\example\Person.class
