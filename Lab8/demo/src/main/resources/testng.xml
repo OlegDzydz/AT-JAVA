@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Suite">
+  <test name="MainTests">
+    <!-- Параметри, що завантажуються у тест -->
+    <parameter name="paramInput" value="Hello, Java World!"/>
+    <parameter name="paramSearch" value="Java"/>
+    <parameter name="paramExpected" value="7"/>
+    
+    <classes>
+      <class name="MainTest"/>
+    </classes>
+  </test>
+</suite>
