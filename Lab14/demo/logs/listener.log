@@ -1,0 +1,60 @@
+2025-04-16 04:32:13 [main] INFO  com.example.listeners.CustomListener - === Execution started ===
+2025-04-16 04:32:13 [main] INFO  com.example.listeners.CustomListener - Suite started: Surefire suite
+2025-04-16 04:32:13 [main] INFO  com.example.listeners.CustomListener - Test context started: Surefire test
+2025-04-16 04:32:13 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.setupClass
+2025-04-16 04:32:14 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.setupClass
+2025-04-16 04:32:14 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.beforeClass
+2025-04-16 04:32:14 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.beforeClass
+2025-04-16 04:32:14 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.setUp
+2025-04-16 04:32:15 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.setUp
+2025-04-16 04:32:15 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.testDropdownSelections
+2025-04-16 04:32:18 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.testDropdownSelections
+2025-04-16 04:32:18 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.tearDown
+2025-04-16 04:32:19 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.tearDown
+2025-04-16 04:32:19 [main] INFO  com.example.listeners.CustomListener - Suite finished: Surefire suite
+2025-04-16 04:32:19 [main] INFO  com.example.listeners.CustomListener - === Execution finished ===
+2025-04-16 04:34:47 [main] INFO  com.example.listeners.CustomListener - === Execution started ===
+2025-04-16 04:34:47 [main] INFO  com.example.listeners.CustomListener - Suite started: Surefire suite
+2025-04-16 04:34:47 [main] INFO  com.example.listeners.CustomListener - Test context started: Surefire test
+2025-04-16 04:34:47 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.setupClass
+2025-04-16 04:34:47 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.setupClass
+2025-04-16 04:34:47 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.beforeClass
+2025-04-16 04:34:47 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.beforeClass
+2025-04-16 04:34:47 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.setUp
+2025-04-16 04:34:48 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.setUp
+2025-04-16 04:34:48 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.testDropdownSelections
+2025-04-16 04:34:52 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.testDropdownSelections
+2025-04-16 04:34:52 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.tearDown
+2025-04-16 04:34:52 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.tearDown
+2025-04-16 04:34:52 [main] INFO  com.example.listeners.CustomListener - Suite finished: Surefire suite
+2025-04-16 04:34:52 [main] INFO  com.example.listeners.CustomListener - === Execution finished ===
+2025-04-16 04:42:39 [main] INFO  com.example.listeners.CustomListener - === Execution started ===
+2025-04-16 04:42:39 [main] INFO  com.example.listeners.CustomListener - Suite started: Surefire suite
+2025-04-16 04:42:39 [main] INFO  com.example.listeners.CustomListener - Test context started: Surefire test
+2025-04-16 04:42:39 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.setupClass
+2025-04-16 04:42:40 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.setupClass
+2025-04-16 04:42:40 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.beforeClass
+2025-04-16 04:42:40 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.beforeClass
+2025-04-16 04:42:40 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.setUp
+2025-04-16 04:42:41 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.setUp
+2025-04-16 04:42:41 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.testDropdownSelections
+2025-04-16 04:42:44 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.testDropdownSelections
+2025-04-16 04:42:44 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.tearDown
+2025-04-16 04:42:44 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.tearDown
+2025-04-16 04:42:44 [main] INFO  com.example.listeners.CustomListener - Suite finished: Surefire suite
+2025-04-16 04:42:44 [main] INFO  com.example.listeners.CustomListener - === Execution finished ===
+2025-04-16 04:47:06 [main] INFO  com.example.listeners.CustomListener - === Execution started ===
+2025-04-16 04:47:06 [main] INFO  com.example.listeners.CustomListener - Suite started: Surefire suite
+2025-04-16 04:47:06 [main] INFO  com.example.listeners.CustomListener - Test context started: Surefire test
+2025-04-16 04:47:06 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.setupClass
+2025-04-16 04:47:07 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.setupClass
+2025-04-16 04:47:07 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.beforeClass
+2025-04-16 04:47:07 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.beforeClass
+2025-04-16 04:47:07 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.setUp
+2025-04-16 04:47:08 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.setUp
+2025-04-16 04:47:08 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.testDropdownSelections
+2025-04-16 04:47:11 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.testDropdownSelections
+2025-04-16 04:47:11 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.tearDown
+2025-04-16 04:47:11 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.tearDown
+2025-04-16 04:47:12 [main] INFO  com.example.listeners.CustomListener - Suite finished: Surefire suite
+2025-04-16 04:47:12 [main] INFO  com.example.listeners.CustomListener - === Execution finished ===
