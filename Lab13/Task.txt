@@ -1,0 +1,6 @@
+General task (use Task_12 like base)
+Implement custom Listeners with methods for your variant.
+Add logging for all overridden listener methods using log4j console and file appenders
+Add video recorder for onFail action (you can use any lib for that)
+
+V5. ITestListener method task (5, 7); ISuiteListener, IExecutionListener,IInvoke...(1, 6)
