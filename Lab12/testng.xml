@@ -1,8 +1,0 @@
-<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="DropdownSuite">
-  <test name="DropdownTest">
-    <classes>
-      <class name="com.example.tests.DropdownTest"/>
-    </classes>
-  </test>
-</suite>
