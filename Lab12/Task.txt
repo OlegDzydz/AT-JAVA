@@ -1,0 +1,10 @@
+General
+Implement PageFactory for a few pages.
+Implement Wrapper for common WebElements (choose your variant).
+Implement methods for your web element with console logging. (Choose your variant with specific methods)
+Use those methods in a simple TC scenario
+
+V5  Select dropdowns:
+selectByValue - selects an option from the dropdown by its value
+selectByIndex - selects an option from the dropdown by its index
+selectByText - selects an option from the dropdown by its text
