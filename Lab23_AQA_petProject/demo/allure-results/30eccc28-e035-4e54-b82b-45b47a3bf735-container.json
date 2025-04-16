@@ -1,0 +1,1 @@
+{"uuid":"30eccc28-e035-4e54-b82b-45b47a3bf735","name":"com.example.tests.DropdownTest","children":["68dba25b-84b4-4b33-886d-96b7c58f7c5b"],"befores":[{"name":"setupClass","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1744778631353,"stop":1744778631369}],"afters":[],"start":1744778585172,"stop":1744778647895}

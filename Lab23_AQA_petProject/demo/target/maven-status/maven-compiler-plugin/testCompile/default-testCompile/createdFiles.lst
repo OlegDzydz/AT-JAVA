@@ -1,0 +1,9 @@
+com\example\tests\DatabaseTest.class
+com\example\tests\DropdownTest.class
+com\example\tests\ApiTest.class
+com\example\tests\DataProviders.class
+com\example\tests\LoginTest.class
+com\example\tests\BaseTest.class
+com\example\listeners\CustomListener.class
+com\example\listeners\AllureAttachmentListener.class
+com\example\tests\AboutUsTest.class

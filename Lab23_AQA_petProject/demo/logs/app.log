@@ -1,0 +1,979 @@
+2025-04-16 06:03:42 [main] INFO  com.example.listeners.CustomListener - === Execution started ===
+2025-04-16 06:03:42 [main] INFO  com.example.listeners.CustomListener - Suite started: Surefire suite
+2025-04-16 06:03:42 [main] INFO  com.example.listeners.CustomListener - Test context started: Surefire test
+2025-04-16 06:03:42 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.ApiTest.testCreateUser
+2025-04-16 06:03:44 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.ApiTest.testCreateUser
+2025-04-16 06:03:44 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DatabaseTest.testOrmSaveAndLoad
+2025-04-16 06:03:44 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.15.Final
+2025-04-16 06:03:44 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DatabaseTest.testOrmSaveAndLoad
+2025-04-16 06:03:44 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.setupClass
+2025-04-16 06:03:44 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.setupClass
+2025-04-16 06:03:44 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.setup
+2025-04-16 06:03:45 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.setup
+2025-04-16 06:03:45 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.initPage
+2025-04-16 06:03:45 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.initPage
+2025-04-16 06:03:45 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.testDropdownSelections
+2025-04-16 06:03:49 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.testDropdownSelections
+2025-04-16 06:03:49 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.teardown
+2025-04-16 06:03:49 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.teardown
+2025-04-16 06:03:49 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.setupClass
+2025-04-16 06:03:49 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.setupClass
+2025-04-16 06:03:49 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.setup
+2025-04-16 06:03:49 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.setup
+2025-04-16 06:03:49 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.initPages
+2025-04-16 06:03:49 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.initPages
+2025-04-16 06:03:49 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.testLogin
+2025-04-16 06:03:50 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.testLogin
+2025-04-16 06:03:50 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.teardown
+2025-04-16 06:03:50 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.teardown
+2025-04-16 06:03:50 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.setup
+2025-04-16 06:03:51 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.setup
+2025-04-16 06:03:51 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.initPages
+2025-04-16 06:03:51 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.initPages
+2025-04-16 06:03:51 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.testLogin
+2025-04-16 06:03:52 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.testLogin
+2025-04-16 06:03:52 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.teardown
+2025-04-16 06:03:52 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.teardown
+2025-04-16 06:03:52 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.SearchTest.setupClass
+2025-04-16 06:03:52 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.SearchTest.setupClass
+2025-04-16 06:03:52 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.SearchTest.setup
+2025-04-16 06:03:53 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.SearchTest.setup
+2025-04-16 06:03:53 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.SearchTest.initPages
+2025-04-16 06:03:53 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.SearchTest.initPages
+2025-04-16 06:03:53 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.SearchTest.testSearch
+2025-04-16 06:03:53 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.SearchTest.testSearch
+2025-04-16 06:03:53 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.SearchTest.teardown
+2025-04-16 06:03:54 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.SearchTest.teardown
+2025-04-16 06:03:54 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.SearchTest.setup
+2025-04-16 06:03:54 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.SearchTest.setup
+2025-04-16 06:03:54 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.SearchTest.initPages
+2025-04-16 06:03:54 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.SearchTest.initPages
+2025-04-16 06:03:54 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.SearchTest.testSearch
+2025-04-16 06:03:55 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.SearchTest.testSearch
+2025-04-16 06:03:55 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.SearchTest.teardown
+2025-04-16 06:03:55 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.SearchTest.teardown
+2025-04-16 06:03:55 [main] INFO  com.example.listeners.CustomListener - Suite finished: Surefire suite
+2025-04-16 06:03:55 [main] INFO  com.example.listeners.CustomListener - === Execution finished ===
+2025-04-16 06:18:14 [main] INFO  com.example.listeners.CustomListener - === Execution started ===
+2025-04-16 06:18:14 [main] INFO  com.example.listeners.CustomListener - Suite started: Surefire suite
+2025-04-16 06:18:14 [main] INFO  com.example.listeners.CustomListener - Test context started: Surefire test
+2025-04-16 06:18:14 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.setupClass
+2025-04-16 06:18:14 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.setupClass
+2025-04-16 06:18:14 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.setup
+2025-04-16 06:18:15 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.setup
+2025-04-16 06:18:15 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.initPages
+2025-04-16 06:18:15 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.initPages
+2025-04-16 06:18:15 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.testAboutUsModal
+2025-04-16 06:18:26 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.testAboutUsModal
+2025-04-16 06:18:26 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.teardown
+2025-04-16 06:18:27 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.teardown
+2025-04-16 06:18:27 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.ApiTest.testCreateUser
+2025-04-16 06:18:29 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.ApiTest.testCreateUser
+2025-04-16 06:18:29 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DatabaseTest.testOrmSaveAndLoad
+2025-04-16 06:18:29 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.15.Final
+2025-04-16 06:18:29 [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2025-04-16 06:18:29 [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2025-04-16 06:18:29 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/testdb]
+2025-04-16 06:18:29 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+2025-04-16 06:18:29 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2025-04-16 06:18:29 [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+2025-04-16 06:18:29 [main] WARN  org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator - HHH000342: Could not obtain connection to query metadata
+java.lang.IllegalStateException: Cannot get a connection as the driver manager is not properly initialized
+	at org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl.getConnection(DriverManagerConnectionProviderImpl.java:220) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess.obtainConnection(JdbcEnvironmentInitiator.java:181) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.initiateService(JdbcEnvironmentInitiator.java:68) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.initiateService(JdbcEnvironmentInitiator.java:35) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.boot.registry.internal.StandardServiceRegistryImpl.initiateService(StandardServiceRegistryImpl.java:101) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.createService(AbstractServiceRegistryImpl.java:272) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.initializeService(AbstractServiceRegistryImpl.java:246) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.getService(AbstractServiceRegistryImpl.java:223) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.engine.jdbc.internal.JdbcServicesImpl.configure(JdbcServicesImpl.java:51) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.boot.registry.internal.StandardServiceRegistryImpl.configureService(StandardServiceRegistryImpl.java:107) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.initializeService(AbstractServiceRegistryImpl.java:255) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.getService(AbstractServiceRegistryImpl.java:223) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.engine.jdbc.connections.internal.BasicConnectionCreator.convertSqlException(BasicConnectionCreator.java:129) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.engine.jdbc.connections.internal.DriverConnectionCreator.makeConnection(DriverConnectionCreator.java:42) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.engine.jdbc.connections.internal.BasicConnectionCreator.createConnection(BasicConnectionCreator.java:62) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections.addConnections(DriverManagerConnectionProviderImpl.java:457) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections.<init>(DriverManagerConnectionProviderImpl.java:323) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections.<init>(DriverManagerConnectionProviderImpl.java:297) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections$Builder.build(DriverManagerConnectionProviderImpl.java:501) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl.buildPool(DriverManagerConnectionProviderImpl.java:101) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl.configure(DriverManagerConnectionProviderImpl.java:76) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.boot.registry.internal.StandardServiceRegistryImpl.configureService(StandardServiceRegistryImpl.java:107) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.initializeService(AbstractServiceRegistryImpl.java:255) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.getService(AbstractServiceRegistryImpl.java:223) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.buildJdbcConnectionAccess(JdbcEnvironmentInitiator.java:146) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.initiateService(JdbcEnvironmentInitiator.java:66) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.initiateService(JdbcEnvironmentInitiator.java:35) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.boot.registry.internal.StandardServiceRegistryImpl.initiateService(StandardServiceRegistryImpl.java:101) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.createService(AbstractServiceRegistryImpl.java:272) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.initializeService(AbstractServiceRegistryImpl.java:246) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.getService(AbstractServiceRegistryImpl.java:223) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.id.factory.internal.DefaultIdentifierGeneratorFactory.injectServices(DefaultIdentifierGeneratorFactory.java:175) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.injectDependencies(AbstractServiceRegistryImpl.java:295) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.initializeService(AbstractServiceRegistryImpl.java:252) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.getService(AbstractServiceRegistryImpl.java:223) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.boot.internal.InFlightMetadataCollectorImpl.<init>(InFlightMetadataCollectorImpl.java:173) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.boot.model.process.spi.MetadataBuildingProcess.complete(MetadataBuildingProcess.java:127) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.boot.model.process.spi.MetadataBuildingProcess.build(MetadataBuildingProcess.java:86) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.boot.internal.MetadataBuilderImpl.build(MetadataBuilderImpl.java:479) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.boot.internal.MetadataBuilderImpl.build(MetadataBuilderImpl.java:85) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:709) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:746) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at com.example.util.HibernateUtil.<clinit>(HibernateUtil.java:9) ~[classes/:?]
+	at com.example.repository.UserRepository.save(UserRepository.java:11) ~[classes/:?]
+	at com.example.tests.DatabaseTest.testOrmSaveAndLoad(DatabaseTest.java:22) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.7.1.jar:7.7.1]
+	at java.util.ArrayList.forEach(ArrayList.java:1596) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:829) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestRunner.run(TestRunner.java:602) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:437) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:330) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1176) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.runSuites(TestNG.java:1099) ~[testng-7.7.1.jar:7.7.1]
+	at org.testng.TestNG.run(TestNG.java:1067) ~[testng-7.7.1.jar:7.7.1]
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:151) ~[surefire-testng-3.0.0-M7.jar:3.0.0-M7]
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.executeMulti(TestNGDirectoryTestSuite.java:192) ~[surefire-testng-3.0.0-M7.jar:3.0.0-M7]
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.execute(TestNGDirectoryTestSuite.java:93) ~[surefire-testng-3.0.0-M7.jar:3.0.0-M7]
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:155) ~[surefire-testng-3.0.0-M7.jar:3.0.0-M7]
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:456) ~[surefire-booter-3.0.0-M7.jar:3.0.0-M7]
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:169) ~[surefire-booter-3.0.0-M7.jar:3.0.0-M7]
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:595) ~[surefire-booter-3.0.0-M7.jar:3.0.0-M7]
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:581) ~[surefire-booter-3.0.0-M7.jar:3.0.0-M7]
+2025-04-16 06:18:29 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2025-04-16 06:18:29 [main] WARN  org.hibernate.engine.jdbc.spi.SqlExceptionHelper - SQL Error: 1045, SQLState: 28000
+2025-04-16 06:18:29 [main] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper - Access denied for user 'root'@'localhost' (using password: YES)
+2025-04-16 06:18:29 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DatabaseTest.testOrmSaveAndLoad
+2025-04-16 06:18:29 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.setupClass
+2025-04-16 06:18:29 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.setupClass
+2025-04-16 06:18:29 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.setup
+2025-04-16 06:18:30 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.setup
+2025-04-16 06:18:30 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.initPage
+2025-04-16 06:18:30 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.initPage
+2025-04-16 06:18:30 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.testDropdownSelections
+2025-04-16 06:18:33 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.testDropdownSelections
+2025-04-16 06:18:33 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.teardown
+2025-04-16 06:18:33 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.teardown
+2025-04-16 06:18:33 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.setupClass
+2025-04-16 06:18:33 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.setupClass
+2025-04-16 06:18:33 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.setup
+2025-04-16 06:18:34 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.setup
+2025-04-16 06:18:34 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.initPages
+2025-04-16 06:18:34 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.initPages
+2025-04-16 06:18:34 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.testLogin
+2025-04-16 06:18:36 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.testLogin
+2025-04-16 06:18:36 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.teardown
+2025-04-16 06:18:36 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.teardown
+2025-04-16 06:18:36 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.setup
+2025-04-16 06:18:37 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.setup
+2025-04-16 06:18:37 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.initPages
+2025-04-16 06:18:37 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.initPages
+2025-04-16 06:18:37 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.testLogin
+2025-04-16 06:18:39 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.testLogin
+2025-04-16 06:18:39 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.teardown
+2025-04-16 06:18:39 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.teardown
+2025-04-16 06:18:39 [main] INFO  com.example.listeners.CustomListener - Suite finished: Surefire suite
+2025-04-16 06:18:39 [main] INFO  com.example.listeners.CustomListener - === Execution finished ===
+2025-04-16 06:30:08 [main] INFO  com.example.listeners.CustomListener - === Execution started ===
+2025-04-16 06:30:08 [main] INFO  com.example.listeners.CustomListener - Suite started: Surefire suite
+2025-04-16 06:30:08 [main] INFO  com.example.listeners.CustomListener - Test context started: Surefire test
+2025-04-16 06:30:08 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.setupClass
+2025-04-16 06:30:08 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.setupClass
+2025-04-16 06:30:08 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.setup
+2025-04-16 06:30:09 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.setup
+2025-04-16 06:30:09 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.initPages
+2025-04-16 06:30:09 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.initPages
+2025-04-16 06:30:09 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.testAboutUsModal
+2025-04-16 06:30:11 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.testAboutUsModal
+2025-04-16 06:30:11 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.teardown
+2025-04-16 06:30:11 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.teardown
+2025-04-16 06:30:11 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.ApiTest.testCreateUser
+2025-04-16 06:30:13 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.ApiTest.testCreateUser
+2025-04-16 06:30:13 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DatabaseTest.testOrmSaveAndLoad
+2025-04-16 06:30:13 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.15.Final
+2025-04-16 06:30:13 [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2025-04-16 06:30:13 [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2025-04-16 06:30:13 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:testdb;DB_CLOSE_DELAY=-1]
+2025-04-16 06:30:13 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {}
+2025-04-16 06:30:13 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2025-04-16 06:30:13 [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+2025-04-16 06:30:13 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2025-04-16 06:30:14 [main] INFO  org.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@fcae085] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2025-04-16 06:30:14 [main] INFO  org.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@2a4a95c4] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2025-04-16 06:30:14 [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2025-04-16 06:30:14 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DatabaseTest.testOrmSaveAndLoad
+2025-04-16 06:30:14 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.setupClass
+2025-04-16 06:30:14 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.setupClass
+2025-04-16 06:30:14 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.setup
+2025-04-16 06:30:14 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.setup
+2025-04-16 06:30:14 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.initPage
+2025-04-16 06:30:14 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.initPage
+2025-04-16 06:30:14 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.testDropdownSelections
+2025-04-16 06:30:26 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.testDropdownSelections
+2025-04-16 06:30:26 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.teardown
+2025-04-16 06:30:26 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.teardown
+2025-04-16 06:30:26 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.setupClass
+2025-04-16 06:30:26 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.setupClass
+2025-04-16 06:30:26 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.setup
+2025-04-16 06:30:26 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.setup
+2025-04-16 06:30:26 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.initPages
+2025-04-16 06:30:26 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.initPages
+2025-04-16 06:30:26 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.testLogin
+2025-04-16 06:30:39 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.testLogin
+2025-04-16 06:30:39 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.teardown
+2025-04-16 06:30:39 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.teardown
+2025-04-16 06:30:39 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.setup
+2025-04-16 06:30:40 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.setup
+2025-04-16 06:30:40 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.initPages
+2025-04-16 06:30:40 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.initPages
+2025-04-16 06:30:40 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.testLogin
+2025-04-16 06:30:52 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.testLogin
+2025-04-16 06:30:52 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.teardown
+2025-04-16 06:30:53 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.teardown
+2025-04-16 06:30:53 [main] INFO  com.example.listeners.CustomListener - Suite finished: Surefire suite
+2025-04-16 06:30:53 [main] INFO  com.example.listeners.CustomListener - === Execution finished ===
+2025-04-16 06:38:17 [main] INFO  com.example.listeners.CustomListener - === Execution started ===
+2025-04-16 06:38:17 [main] INFO  com.example.listeners.CustomListener - Suite started: Surefire suite
+2025-04-16 06:38:17 [main] INFO  com.example.listeners.CustomListener - Test context started: Surefire test
+2025-04-16 06:38:17 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.setupClass
+2025-04-16 06:38:18 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.setupClass
+2025-04-16 06:38:18 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.setup
+2025-04-16 06:38:19 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.setup
+2025-04-16 06:38:19 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.initPages
+2025-04-16 06:38:19 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.initPages
+2025-04-16 06:38:19 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.testAboutUsModal
+2025-04-16 06:38:21 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.testAboutUsModal
+2025-04-16 06:38:21 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.teardown
+2025-04-16 06:38:21 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.teardown
+2025-04-16 06:38:21 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.ApiTest.testCreateUser
+2025-04-16 06:38:23 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.ApiTest.testCreateUser
+2025-04-16 06:38:23 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DatabaseTest.testOrmSaveAndLoad
+2025-04-16 06:38:23 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.15.Final
+2025-04-16 06:38:23 [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2025-04-16 06:38:23 [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2025-04-16 06:38:23 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:testdb;DB_CLOSE_DELAY=-1]
+2025-04-16 06:38:23 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {}
+2025-04-16 06:38:23 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2025-04-16 06:38:23 [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+2025-04-16 06:38:23 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2025-04-16 06:38:24 [main] INFO  org.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@6ade4ac6] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2025-04-16 06:38:24 [main] INFO  org.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@513fb873] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2025-04-16 06:38:24 [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2025-04-16 06:38:24 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DatabaseTest.testOrmSaveAndLoad
+2025-04-16 06:38:24 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.setupClass
+2025-04-16 06:38:24 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.setupClass
+2025-04-16 06:38:24 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.setup
+2025-04-16 06:38:24 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.setup
+2025-04-16 06:38:24 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.initPage
+2025-04-16 06:38:24 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.initPage
+2025-04-16 06:38:24 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.testDropdownSelections
+2025-04-16 06:38:28 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.testDropdownSelections
+2025-04-16 06:38:28 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.teardown
+2025-04-16 06:38:28 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.teardown
+2025-04-16 06:38:28 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.setupClass
+2025-04-16 06:38:28 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.setupClass
+2025-04-16 06:38:28 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.setup
+2025-04-16 06:38:28 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.setup
+2025-04-16 06:38:28 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.initPages
+2025-04-16 06:38:28 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.initPages
+2025-04-16 06:38:28 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.testLogin
+2025-04-16 06:38:30 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.testLogin
+2025-04-16 06:38:31 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.teardown
+2025-04-16 06:38:31 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.teardown
+2025-04-16 06:38:31 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.setup
+2025-04-16 06:38:31 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.setup
+2025-04-16 06:38:31 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.initPages
+2025-04-16 06:38:31 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.initPages
+2025-04-16 06:38:31 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.testLogin
+2025-04-16 06:38:33 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.testLogin
+2025-04-16 06:38:33 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.teardown
+2025-04-16 06:38:34 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.teardown
+2025-04-16 06:38:34 [main] INFO  com.example.listeners.CustomListener - Suite finished: Surefire suite
+2025-04-16 06:38:34 [main] INFO  com.example.listeners.CustomListener - === Execution finished ===
+2025-04-16 07:06:43 [main] INFO  com.example.listeners.CustomListener - === Execution started ===
+2025-04-16 07:06:43 [main] INFO  com.example.listeners.CustomListener - Suite started: DemoBlazeSuite
+2025-04-16 07:06:43 [main] INFO  com.example.listeners.CustomListener - Test context started: API & Database Tests
+2025-04-16 07:06:43 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.ApiTest.testCreateUser
+2025-04-16 07:06:45 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.ApiTest.testCreateUser
+2025-04-16 07:06:45 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DatabaseTest.testOrmSaveAndLoad
+2025-04-16 07:06:45 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.15.Final
+2025-04-16 07:06:45 [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2025-04-16 07:06:45 [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2025-04-16 07:06:45 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:testdb;DB_CLOSE_DELAY=-1]
+2025-04-16 07:06:45 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {}
+2025-04-16 07:06:45 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2025-04-16 07:06:45 [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+2025-04-16 07:06:46 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2025-04-16 07:06:46 [main] INFO  org.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@75a6bd06] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2025-04-16 07:06:46 [main] INFO  org.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@c79915a] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2025-04-16 07:06:46 [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2025-04-16 07:06:46 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DatabaseTest.testOrmSaveAndLoad
+2025-04-16 07:06:46 [main] INFO  com.example.listeners.CustomListener - Test context started: UI Tests
+2025-04-16 07:06:46 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.setupClass
+2025-04-16 07:06:47 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.setupClass
+2025-04-16 07:06:47 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.setup
+2025-04-16 07:06:48 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.setup
+2025-04-16 07:06:48 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.initPages
+2025-04-16 07:06:48 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.initPages
+2025-04-16 07:06:48 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.testLogin
+2025-04-16 07:06:50 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.testLogin
+2025-04-16 07:06:50 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.teardown
+2025-04-16 07:06:50 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.teardown
+2025-04-16 07:06:50 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.setup
+2025-04-16 07:06:51 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.setup
+2025-04-16 07:06:51 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.initPages
+2025-04-16 07:06:51 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.initPages
+2025-04-16 07:06:51 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.testLogin
+2025-04-16 07:06:53 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.testLogin
+2025-04-16 07:06:53 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.teardown
+2025-04-16 07:06:53 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.teardown
+2025-04-16 07:06:53 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.setupClass
+2025-04-16 07:06:53 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.setupClass
+2025-04-16 07:06:53 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.setup
+2025-04-16 07:06:53 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.setup
+2025-04-16 07:06:53 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.initPages
+2025-04-16 07:06:53 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.initPages
+2025-04-16 07:06:53 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.testAboutUsModal
+2025-04-16 07:06:55 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.testAboutUsModal
+2025-04-16 07:06:55 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.teardown
+2025-04-16 07:06:55 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.teardown
+2025-04-16 07:06:55 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.setupClass
+2025-04-16 07:06:55 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.setupClass
+2025-04-16 07:06:55 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.setup
+2025-04-16 07:06:56 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.setup
+2025-04-16 07:06:56 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.initPage
+2025-04-16 07:06:56 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.initPage
+2025-04-16 07:06:56 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.testDropdownSelections
+2025-04-16 07:06:59 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.testDropdownSelections
+2025-04-16 07:06:59 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.teardown
+2025-04-16 07:06:59 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.teardown
+2025-04-16 07:06:59 [main] INFO  com.example.listeners.CustomListener - Suite finished: DemoBlazeSuite
+2025-04-16 07:06:59 [main] INFO  com.example.listeners.CustomListener - === Execution finished ===
+2025-04-16 07:07:49 [main] INFO  com.example.listeners.CustomListener - === Execution started ===
+2025-04-16 07:07:49 [main] INFO  com.example.listeners.CustomListener - Suite started: DemoBlazeSuite
+2025-04-16 07:07:49 [main] INFO  com.example.listeners.CustomListener - Test context started: API & Database Tests
+2025-04-16 07:07:49 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.ApiTest.testCreateUser
+2025-04-16 07:07:51 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.ApiTest.testCreateUser
+2025-04-16 07:07:51 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DatabaseTest.testOrmSaveAndLoad
+2025-04-16 07:07:51 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.15.Final
+2025-04-16 07:07:51 [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2025-04-16 07:07:51 [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2025-04-16 07:07:51 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:testdb;DB_CLOSE_DELAY=-1]
+2025-04-16 07:07:51 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {}
+2025-04-16 07:07:51 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2025-04-16 07:07:51 [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+2025-04-16 07:07:51 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2025-04-16 07:07:52 [main] INFO  org.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@76ee7301] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2025-04-16 07:07:52 [main] INFO  org.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@68af8288] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2025-04-16 07:07:52 [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2025-04-16 07:07:52 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DatabaseTest.testOrmSaveAndLoad
+2025-04-16 07:07:52 [main] INFO  com.example.listeners.CustomListener - Test context started: UI Tests
+2025-04-16 07:07:52 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.setupClass
+2025-04-16 07:07:52 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.setupClass
+2025-04-16 07:07:52 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.setup
+2025-04-16 07:07:53 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.setup
+2025-04-16 07:07:53 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.initPages
+2025-04-16 07:07:53 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.initPages
+2025-04-16 07:07:53 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.testLogin
+2025-04-16 07:07:55 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.testLogin
+2025-04-16 07:07:55 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.teardown
+2025-04-16 07:07:55 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.teardown
+2025-04-16 07:07:55 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.setup
+2025-04-16 07:07:56 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.setup
+2025-04-16 07:07:56 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.initPages
+2025-04-16 07:07:56 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.initPages
+2025-04-16 07:07:56 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.testLogin
+2025-04-16 07:07:58 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.testLogin
+2025-04-16 07:07:58 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.teardown
+2025-04-16 07:07:58 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.teardown
+2025-04-16 07:07:58 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.setupClass
+2025-04-16 07:07:58 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.setupClass
+2025-04-16 07:07:58 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.setup
+2025-04-16 07:07:59 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.setup
+2025-04-16 07:07:59 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.initPages
+2025-04-16 07:07:59 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.initPages
+2025-04-16 07:07:59 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.testAboutUsModal
+2025-04-16 07:08:01 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.testAboutUsModal
+2025-04-16 07:08:01 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.teardown
+2025-04-16 07:08:01 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.teardown
+2025-04-16 07:08:01 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.setupClass
+2025-04-16 07:08:01 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.setupClass
+2025-04-16 07:08:01 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.setup
+2025-04-16 07:08:02 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.setup
+2025-04-16 07:08:02 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.initPage
+2025-04-16 07:08:02 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.initPage
+2025-04-16 07:08:02 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.testDropdownSelections
+2025-04-16 07:08:05 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.testDropdownSelections
+2025-04-16 07:08:05 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.teardown
+2025-04-16 07:08:05 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.teardown
+2025-04-16 07:08:05 [main] INFO  com.example.listeners.CustomListener - Suite finished: DemoBlazeSuite
+2025-04-16 07:08:05 [main] INFO  com.example.listeners.CustomListener - === Execution finished ===
+2025-04-16 07:15:27 [main] INFO  com.example.listeners.CustomListener - === Execution started ===
+2025-04-16 07:15:27 [main] INFO  com.example.listeners.CustomListener - Suite started: DemoBlazeSuite
+2025-04-16 07:15:27 [main] INFO  com.example.listeners.CustomListener - Test context started: API & Database Tests
+2025-04-16 07:15:27 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.ApiTest.testCreateUser
+2025-04-16 07:15:29 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.ApiTest.testCreateUser
+2025-04-16 07:15:29 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DatabaseTest.testOrmSaveAndLoad
+2025-04-16 07:15:29 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.15.Final
+2025-04-16 07:15:29 [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2025-04-16 07:15:29 [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2025-04-16 07:15:29 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:testdb;DB_CLOSE_DELAY=-1]
+2025-04-16 07:15:29 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {}
+2025-04-16 07:15:29 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2025-04-16 07:15:29 [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+2025-04-16 07:15:29 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2025-04-16 07:15:30 [main] INFO  org.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@ad585fb] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2025-04-16 07:15:30 [main] INFO  org.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@71634e64] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2025-04-16 07:15:30 [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2025-04-16 07:15:30 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DatabaseTest.testOrmSaveAndLoad
+2025-04-16 07:15:30 [main] INFO  com.example.listeners.CustomListener - Test context started: UI Tests
+2025-04-16 07:15:30 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.setupClass
+2025-04-16 07:15:30 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.setupClass
+2025-04-16 07:15:30 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.setup
+2025-04-16 07:15:31 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.setup
+2025-04-16 07:15:31 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.initPages
+2025-04-16 07:15:31 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.initPages
+2025-04-16 07:15:31 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.testLogin
+2025-04-16 07:15:33 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.testLogin
+2025-04-16 07:15:33 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.teardown
+2025-04-16 07:15:33 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.teardown
+2025-04-16 07:15:33 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.setup
+2025-04-16 07:15:34 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.setup
+2025-04-16 07:15:34 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.initPages
+2025-04-16 07:15:34 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.initPages
+2025-04-16 07:15:34 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.testLogin
+2025-04-16 07:15:36 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.testLogin
+2025-04-16 07:15:36 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.teardown
+2025-04-16 07:15:36 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.teardown
+2025-04-16 07:15:36 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.setupClass
+2025-04-16 07:15:36 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.setupClass
+2025-04-16 07:15:36 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.setup
+2025-04-16 07:15:37 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.setup
+2025-04-16 07:15:37 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.initPages
+2025-04-16 07:15:37 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.initPages
+2025-04-16 07:15:37 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.testAboutUsModal
+2025-04-16 07:15:39 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.testAboutUsModal
+2025-04-16 07:15:39 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.teardown
+2025-04-16 07:15:39 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.teardown
+2025-04-16 07:15:39 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.setupClass
+2025-04-16 07:15:39 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.setupClass
+2025-04-16 07:15:39 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.setup
+2025-04-16 07:15:40 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.setup
+2025-04-16 07:15:40 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.initPage
+2025-04-16 07:15:40 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.initPage
+2025-04-16 07:15:40 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.testDropdownSelections
+2025-04-16 07:15:43 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.testDropdownSelections
+2025-04-16 07:15:43 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.teardown
+2025-04-16 07:15:43 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.teardown
+2025-04-16 07:15:43 [main] INFO  com.example.listeners.CustomListener - Suite finished: DemoBlazeSuite
+2025-04-16 07:15:43 [main] INFO  com.example.listeners.CustomListener - === Execution finished ===
+2025-04-16 07:22:37 [main] INFO  com.example.listeners.CustomListener - === Execution started ===
+2025-04-16 07:22:37 [main] INFO  com.example.listeners.CustomListener - Suite started: DemoBlazeSuite
+2025-04-16 07:22:37 [main] INFO  com.example.listeners.CustomListener - Test context started: API & Database Tests
+2025-04-16 07:22:37 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.ApiTest.testCreateUser
+2025-04-16 07:22:38 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.ApiTest.testCreateUser
+2025-04-16 07:22:38 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DatabaseTest.testOrmSaveAndLoad
+2025-04-16 07:22:38 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.15.Final
+2025-04-16 07:22:39 [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2025-04-16 07:22:39 [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2025-04-16 07:22:39 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:testdb;DB_CLOSE_DELAY=-1]
+2025-04-16 07:22:39 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {}
+2025-04-16 07:22:39 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2025-04-16 07:22:39 [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+2025-04-16 07:22:39 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2025-04-16 07:22:39 [main] INFO  org.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@ad585fb] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2025-04-16 07:22:39 [main] INFO  org.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@71634e64] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2025-04-16 07:22:39 [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2025-04-16 07:22:39 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DatabaseTest.testOrmSaveAndLoad
+2025-04-16 07:22:40 [main] INFO  com.example.listeners.CustomListener - Test context started: UI Tests
+2025-04-16 07:22:40 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.setupClass
+2025-04-16 07:22:40 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.setupClass
+2025-04-16 07:22:40 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.setup
+2025-04-16 07:22:41 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.setup
+2025-04-16 07:22:41 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.initPages
+2025-04-16 07:22:41 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.initPages
+2025-04-16 07:22:41 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.testLogin
+2025-04-16 07:22:43 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.testLogin
+2025-04-16 07:22:43 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.teardown
+2025-04-16 07:22:43 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.teardown
+2025-04-16 07:22:43 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.setup
+2025-04-16 07:22:44 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.setup
+2025-04-16 07:22:44 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.initPages
+2025-04-16 07:22:44 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.initPages
+2025-04-16 07:22:44 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.testLogin
+2025-04-16 07:22:46 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.testLogin
+2025-04-16 07:22:46 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.teardown
+2025-04-16 07:22:46 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.teardown
+2025-04-16 07:22:46 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.setupClass
+2025-04-16 07:22:46 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.setupClass
+2025-04-16 07:22:46 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.setup
+2025-04-16 07:22:46 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.setup
+2025-04-16 07:22:46 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.initPages
+2025-04-16 07:22:46 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.initPages
+2025-04-16 07:22:46 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.testAboutUsModal
+2025-04-16 07:22:48 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.testAboutUsModal
+2025-04-16 07:22:48 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.teardown
+2025-04-16 07:22:49 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.teardown
+2025-04-16 07:22:49 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.setupClass
+2025-04-16 07:22:49 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.setupClass
+2025-04-16 07:22:49 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.setup
+2025-04-16 07:22:49 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.setup
+2025-04-16 07:22:49 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.initPage
+2025-04-16 07:22:49 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.initPage
+2025-04-16 07:22:49 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.testDropdownSelections
+2025-04-16 07:22:53 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.testDropdownSelections
+2025-04-16 07:22:53 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.teardown
+2025-04-16 07:22:53 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.teardown
+2025-04-16 07:22:53 [main] INFO  com.example.listeners.CustomListener - Suite finished: DemoBlazeSuite
+2025-04-16 07:22:53 [main] INFO  com.example.listeners.CustomListener - === Execution finished ===
+2025-04-16 07:25:22 [main] INFO  com.example.listeners.CustomListener - === Execution started ===
+2025-04-16 07:25:22 [main] INFO  com.example.listeners.CustomListener - Suite started: DemoBlazeSuite
+2025-04-16 07:25:22 [main] INFO  com.example.listeners.CustomListener - Test context started: API & Database Tests
+2025-04-16 07:25:22 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.ApiTest.testCreateUser
+2025-04-16 07:25:24 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.ApiTest.testCreateUser
+2025-04-16 07:25:24 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DatabaseTest.testOrmSaveAndLoad
+2025-04-16 07:25:24 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.15.Final
+2025-04-16 07:25:24 [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2025-04-16 07:25:24 [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2025-04-16 07:25:24 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:testdb;DB_CLOSE_DELAY=-1]
+2025-04-16 07:25:24 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {}
+2025-04-16 07:25:24 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2025-04-16 07:25:24 [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+2025-04-16 07:25:25 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2025-04-16 07:25:25 [main] INFO  org.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@ad585fb] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2025-04-16 07:25:25 [main] INFO  org.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@71634e64] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2025-04-16 07:25:25 [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2025-04-16 07:25:25 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DatabaseTest.testOrmSaveAndLoad
+2025-04-16 07:25:25 [main] INFO  com.example.listeners.CustomListener - Test context started: UI Tests
+2025-04-16 07:25:25 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.setupClass
+2025-04-16 07:25:25 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.setupClass
+2025-04-16 07:25:25 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.setup
+2025-04-16 07:25:26 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.setup
+2025-04-16 07:25:26 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.initPages
+2025-04-16 07:25:26 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.initPages
+2025-04-16 07:25:26 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.testLogin
+2025-04-16 07:25:29 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.testLogin
+2025-04-16 07:25:29 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.teardown
+2025-04-16 07:25:29 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.teardown
+2025-04-16 07:25:29 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.setup
+2025-04-16 07:25:29 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.setup
+2025-04-16 07:25:29 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.initPages
+2025-04-16 07:25:29 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.initPages
+2025-04-16 07:25:29 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.testLogin
+2025-04-16 07:25:32 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.testLogin
+2025-04-16 07:25:32 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.teardown
+2025-04-16 07:25:32 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.teardown
+2025-04-16 07:25:32 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.setupClass
+2025-04-16 07:25:32 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.setupClass
+2025-04-16 07:25:32 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.setup
+2025-04-16 07:25:32 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.setup
+2025-04-16 07:25:32 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.initPages
+2025-04-16 07:25:32 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.initPages
+2025-04-16 07:25:32 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.testAboutUsModal
+2025-04-16 07:25:34 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.testAboutUsModal
+2025-04-16 07:25:34 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.teardown
+2025-04-16 07:25:34 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.teardown
+2025-04-16 07:25:34 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.setupClass
+2025-04-16 07:25:34 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.setupClass
+2025-04-16 07:25:34 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.setup
+2025-04-16 07:25:35 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.setup
+2025-04-16 07:25:35 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.initPage
+2025-04-16 07:25:35 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.initPage
+2025-04-16 07:25:35 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.testDropdownSelections
+2025-04-16 07:25:39 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.testDropdownSelections
+2025-04-16 07:25:39 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.teardown
+2025-04-16 07:25:39 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.teardown
+2025-04-16 07:25:39 [main] INFO  com.example.listeners.CustomListener - Suite finished: DemoBlazeSuite
+2025-04-16 07:25:39 [main] INFO  com.example.listeners.CustomListener - === Execution finished ===
+2025-04-16 07:26:48 [main] INFO  com.example.listeners.CustomListener - === Execution started ===
+2025-04-16 07:26:48 [main] INFO  com.example.listeners.CustomListener - Suite started: DemoBlazeSuite
+2025-04-16 07:26:48 [main] INFO  com.example.listeners.CustomListener - Test context started: API & Database Tests
+2025-04-16 07:26:48 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.ApiTest.testCreateUser
+2025-04-16 07:26:50 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.ApiTest.testCreateUser
+2025-04-16 07:26:50 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DatabaseTest.testOrmSaveAndLoad
+2025-04-16 07:26:50 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.15.Final
+2025-04-16 07:26:50 [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2025-04-16 07:26:50 [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2025-04-16 07:26:50 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:testdb;DB_CLOSE_DELAY=-1]
+2025-04-16 07:26:50 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {}
+2025-04-16 07:26:50 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2025-04-16 07:26:50 [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+2025-04-16 07:26:50 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2025-04-16 07:26:51 [main] INFO  org.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@ad585fb] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2025-04-16 07:26:51 [main] INFO  org.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@71634e64] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2025-04-16 07:26:51 [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2025-04-16 07:26:51 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DatabaseTest.testOrmSaveAndLoad
+2025-04-16 07:26:51 [main] INFO  com.example.listeners.CustomListener - Test context started: UI Tests
+2025-04-16 07:26:51 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.setupClass
+2025-04-16 07:26:51 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.setupClass
+2025-04-16 07:26:51 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.setup
+2025-04-16 07:26:52 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.setup
+2025-04-16 07:26:52 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.initPages
+2025-04-16 07:26:52 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.initPages
+2025-04-16 07:26:52 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.testLogin
+2025-04-16 07:26:54 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.testLogin
+2025-04-16 07:26:54 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.teardown
+2025-04-16 07:26:54 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.teardown
+2025-04-16 07:26:54 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.setup
+2025-04-16 07:26:55 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.setup
+2025-04-16 07:26:55 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.initPages
+2025-04-16 07:26:55 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.initPages
+2025-04-16 07:26:55 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.testLogin
+2025-04-16 07:26:57 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.testLogin
+2025-04-16 07:26:57 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.teardown
+2025-04-16 07:26:57 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.teardown
+2025-04-16 07:26:57 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.setupClass
+2025-04-16 07:26:57 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.setupClass
+2025-04-16 07:26:57 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.setup
+2025-04-16 07:26:58 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.setup
+2025-04-16 07:26:58 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.initPages
+2025-04-16 07:26:58 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.initPages
+2025-04-16 07:26:58 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.testAboutUsModal
+2025-04-16 07:27:00 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.testAboutUsModal
+2025-04-16 07:27:00 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.teardown
+2025-04-16 07:27:00 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.teardown
+2025-04-16 07:27:00 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.setupClass
+2025-04-16 07:27:00 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.setupClass
+2025-04-16 07:27:00 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.setup
+2025-04-16 07:27:00 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.setup
+2025-04-16 07:27:00 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.initPage
+2025-04-16 07:27:00 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.initPage
+2025-04-16 07:27:00 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.testDropdownSelections
+2025-04-16 07:27:04 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.testDropdownSelections
+2025-04-16 07:27:04 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.teardown
+2025-04-16 07:27:04 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.teardown
+2025-04-16 07:27:04 [main] INFO  com.example.listeners.CustomListener - Suite finished: DemoBlazeSuite
+2025-04-16 07:27:04 [main] INFO  com.example.listeners.CustomListener - === Execution finished ===
+2025-04-16 07:29:53 [main] INFO  com.example.listeners.CustomListener - === Execution started ===
+2025-04-16 07:29:53 [main] INFO  com.example.listeners.CustomListener - Suite started: Default Suite
+2025-04-16 07:29:53 [main] INFO  com.example.listeners.CustomListener - Test context started: TestNGTest-7d1294ff-0a12-41b9-9fb2-c568aae1e869
+2025-04-16 07:29:53 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.setupClass
+2025-04-16 07:29:53 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.setupClass
+2025-04-16 07:29:53 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.setup
+2025-04-16 07:29:54 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.setup
+2025-04-16 07:29:54 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.initPages
+2025-04-16 07:29:54 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.initPages
+2025-04-16 07:29:54 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.testLogin
+2025-04-16 07:29:56 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.testLogin
+2025-04-16 07:29:56 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.teardown
+2025-04-16 07:29:57 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.teardown
+2025-04-16 07:29:57 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.setup
+2025-04-16 07:29:57 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.setup
+2025-04-16 07:29:57 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.initPages
+2025-04-16 07:29:57 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.initPages
+2025-04-16 07:29:57 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.testLogin
+2025-04-16 07:29:59 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.testLogin
+2025-04-16 07:29:59 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.teardown
+2025-04-16 07:29:59 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.teardown
+2025-04-16 07:29:59 [main] INFO  com.example.listeners.CustomListener - Suite finished: Default Suite
+2025-04-16 07:29:59 [main] INFO  com.example.listeners.CustomListener - === Execution finished ===
+2025-04-16 07:34:43 [main] INFO  com.example.listeners.CustomListener - === Execution started ===
+2025-04-16 07:34:43 [main] INFO  com.example.listeners.CustomListener - Suite started: DemoBlazeSuite
+2025-04-16 07:34:43 [main] INFO  com.example.listeners.CustomListener - Test context started: API & Database Tests
+2025-04-16 07:34:43 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.ApiTest.testCreateUser
+2025-04-16 07:34:44 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.ApiTest.testCreateUser
+2025-04-16 07:34:44 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DatabaseTest.testOrmSaveAndLoad
+2025-04-16 07:34:44 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.15.Final
+2025-04-16 07:34:45 [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2025-04-16 07:34:45 [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2025-04-16 07:34:45 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:testdb;DB_CLOSE_DELAY=-1]
+2025-04-16 07:34:45 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {}
+2025-04-16 07:34:45 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2025-04-16 07:34:45 [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+2025-04-16 07:34:45 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2025-04-16 07:34:45 [main] INFO  org.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@76ee7301] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2025-04-16 07:34:45 [main] INFO  org.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@68af8288] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2025-04-16 07:34:45 [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2025-04-16 07:34:45 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DatabaseTest.testOrmSaveAndLoad
+2025-04-16 07:34:45 [main] INFO  com.example.listeners.CustomListener - Test context started: UI Tests
+2025-04-16 07:34:45 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.setupClass
+2025-04-16 07:34:46 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.setupClass
+2025-04-16 07:34:46 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.setup
+2025-04-16 07:34:47 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.setup
+2025-04-16 07:34:47 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.initPages
+2025-04-16 07:34:47 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.initPages
+2025-04-16 07:34:47 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.testLogin
+2025-04-16 07:34:49 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.testLogin
+2025-04-16 07:34:49 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.teardown
+2025-04-16 07:34:49 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.teardown
+2025-04-16 07:34:49 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.setup
+2025-04-16 07:34:49 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.setup
+2025-04-16 07:34:49 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.initPages
+2025-04-16 07:34:49 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.initPages
+2025-04-16 07:34:49 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.testLogin
+2025-04-16 07:34:51 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.testLogin
+2025-04-16 07:34:51 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.teardown
+2025-04-16 07:34:52 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.teardown
+2025-04-16 07:34:52 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.setupClass
+2025-04-16 07:34:52 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.setupClass
+2025-04-16 07:34:52 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.setup
+2025-04-16 07:34:52 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.setup
+2025-04-16 07:34:52 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.initPages
+2025-04-16 07:34:52 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.initPages
+2025-04-16 07:34:52 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.testAboutUsModal
+2025-04-16 07:34:54 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.testAboutUsModal
+2025-04-16 07:34:54 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.teardown
+2025-04-16 07:34:54 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.teardown
+2025-04-16 07:34:54 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.setupClass
+2025-04-16 07:34:54 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.setupClass
+2025-04-16 07:34:54 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.setup
+2025-04-16 07:34:55 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.setup
+2025-04-16 07:34:55 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.initPage
+2025-04-16 07:34:55 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.initPage
+2025-04-16 07:34:55 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.testDropdownSelections
+2025-04-16 07:34:58 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.testDropdownSelections
+2025-04-16 07:34:58 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.teardown
+2025-04-16 07:34:58 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.teardown
+2025-04-16 07:34:58 [main] INFO  com.example.listeners.CustomListener - Suite finished: DemoBlazeSuite
+2025-04-16 07:34:58 [main] INFO  com.example.listeners.CustomListener - === Execution finished ===
+2025-04-16 07:36:32 [main] INFO  com.example.listeners.CustomListener - === Execution started ===
+2025-04-16 07:36:32 [main] INFO  com.example.listeners.CustomListener - Suite started: DemoBlazeSuite
+2025-04-16 07:36:32 [main] INFO  com.example.listeners.CustomListener - Test context started: API & Database Tests
+2025-04-16 07:36:32 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.ApiTest.testCreateUser
+2025-04-16 07:36:34 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.ApiTest.testCreateUser
+2025-04-16 07:36:34 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DatabaseTest.testOrmSaveAndLoad
+2025-04-16 07:36:34 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.15.Final
+2025-04-16 07:36:34 [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2025-04-16 07:36:34 [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2025-04-16 07:36:34 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:testdb;DB_CLOSE_DELAY=-1]
+2025-04-16 07:36:34 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {}
+2025-04-16 07:36:34 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2025-04-16 07:36:34 [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+2025-04-16 07:36:35 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2025-04-16 07:36:35 [main] INFO  org.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@76ee7301] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2025-04-16 07:36:35 [main] INFO  org.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@68af8288] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2025-04-16 07:36:35 [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2025-04-16 07:36:35 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DatabaseTest.testOrmSaveAndLoad
+2025-04-16 07:36:35 [main] INFO  com.example.listeners.CustomListener - Test context started: UI Tests
+2025-04-16 07:36:35 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.setupClass
+2025-04-16 07:36:35 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.setupClass
+2025-04-16 07:36:35 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.setup
+2025-04-16 07:36:36 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.setup
+2025-04-16 07:36:36 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.initPages
+2025-04-16 07:36:36 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.initPages
+2025-04-16 07:36:36 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.testLogin
+2025-04-16 07:36:38 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.testLogin
+2025-04-16 07:36:38 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.teardown
+2025-04-16 07:36:39 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.teardown
+2025-04-16 07:36:39 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.setup
+2025-04-16 07:36:39 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.setup
+2025-04-16 07:36:39 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.initPages
+2025-04-16 07:36:39 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.initPages
+2025-04-16 07:36:39 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.testLogin
+2025-04-16 07:36:41 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.testLogin
+2025-04-16 07:36:41 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.teardown
+2025-04-16 07:36:41 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.teardown
+2025-04-16 07:36:41 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.setupClass
+2025-04-16 07:36:41 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.setupClass
+2025-04-16 07:36:41 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.setup
+2025-04-16 07:36:42 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.setup
+2025-04-16 07:36:42 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.initPages
+2025-04-16 07:36:42 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.initPages
+2025-04-16 07:36:42 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.testAboutUsModal
+2025-04-16 07:36:44 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.testAboutUsModal
+2025-04-16 07:36:44 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.teardown
+2025-04-16 07:36:44 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.teardown
+2025-04-16 07:36:44 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.setupClass
+2025-04-16 07:36:44 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.setupClass
+2025-04-16 07:36:44 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.setup
+2025-04-16 07:36:44 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.setup
+2025-04-16 07:36:44 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.initPage
+2025-04-16 07:36:44 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.initPage
+2025-04-16 07:36:44 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.testDropdownSelections
+2025-04-16 07:36:48 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.testDropdownSelections
+2025-04-16 07:36:48 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.teardown
+2025-04-16 07:36:48 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.teardown
+2025-04-16 07:36:48 [main] INFO  com.example.listeners.CustomListener - Suite finished: DemoBlazeSuite
+2025-04-16 07:36:48 [main] INFO  com.example.listeners.CustomListener - === Execution finished ===
+2025-04-16 07:40:05 [main] INFO  com.example.listeners.CustomListener - === Execution started ===
+2025-04-16 07:40:05 [main] INFO  com.example.listeners.CustomListener - Suite started: DemoBlazeSuite
+2025-04-16 07:40:05 [main] INFO  com.example.listeners.CustomListener - Test context started: API & Database Tests
+2025-04-16 07:40:05 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.ApiTest.testCreateUser
+2025-04-16 07:40:06 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.ApiTest.testCreateUser
+2025-04-16 07:40:06 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DatabaseTest.testOrmSaveAndLoad
+2025-04-16 07:40:06 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.15.Final
+2025-04-16 07:40:07 [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2025-04-16 07:40:07 [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2025-04-16 07:40:07 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:testdb;DB_CLOSE_DELAY=-1]
+2025-04-16 07:40:07 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {}
+2025-04-16 07:40:07 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2025-04-16 07:40:07 [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+2025-04-16 07:40:07 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2025-04-16 07:40:07 [main] INFO  org.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@68feca3a] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2025-04-16 07:40:07 [main] INFO  org.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@34ab398b] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2025-04-16 07:40:07 [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2025-04-16 07:40:07 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DatabaseTest.testOrmSaveAndLoad
+2025-04-16 07:40:07 [main] INFO  com.example.listeners.CustomListener - Test context started: UI Tests
+2025-04-16 07:40:07 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.setupClass
+2025-04-16 07:40:08 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.setupClass
+2025-04-16 07:40:08 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.setup
+2025-04-16 07:40:09 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.setup
+2025-04-16 07:40:09 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.initPages
+2025-04-16 07:40:09 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.initPages
+2025-04-16 07:40:09 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.testLogin
+2025-04-16 07:40:32 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.testLogin
+2025-04-16 07:40:32 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.teardown
+2025-04-16 07:40:32 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.teardown
+2025-04-16 07:40:32 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.setup
+2025-04-16 07:40:33 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.setup
+2025-04-16 07:40:33 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.initPages
+2025-04-16 07:40:33 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.initPages
+2025-04-16 07:40:33 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.testLogin
+2025-04-16 07:40:55 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.testLogin
+2025-04-16 07:40:55 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.teardown
+2025-04-16 07:40:56 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.teardown
+2025-04-16 07:40:56 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.setupClass
+2025-04-16 07:40:56 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.setupClass
+2025-04-16 07:40:56 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.setup
+2025-04-16 07:40:56 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.setup
+2025-04-16 07:40:56 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.initPages
+2025-04-16 07:40:56 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.initPages
+2025-04-16 07:40:56 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.testAboutUsModal
+2025-04-16 07:41:12 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.testAboutUsModal
+2025-04-16 07:41:12 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.teardown
+2025-04-16 07:41:13 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.teardown
+2025-04-16 07:41:13 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.setupClass
+2025-04-16 07:41:13 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.setupClass
+2025-04-16 07:41:13 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.setup
+2025-04-16 07:41:13 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.setup
+2025-04-16 07:41:13 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.initPage
+2025-04-16 07:41:13 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.initPage
+2025-04-16 07:41:13 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.testDropdownSelections
+2025-04-16 07:41:35 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.testDropdownSelections
+2025-04-16 07:41:35 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.teardown
+2025-04-16 07:41:35 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.teardown
+2025-04-16 07:41:35 [main] INFO  com.example.listeners.CustomListener - Suite finished: DemoBlazeSuite
+2025-04-16 07:41:35 [main] INFO  com.example.listeners.CustomListener - === Execution finished ===
+2025-04-16 07:43:02 [main] INFO  com.example.listeners.CustomListener - === Execution started ===
+2025-04-16 07:43:02 [main] INFO  com.example.listeners.CustomListener - Suite started: DemoBlazeSuite
+2025-04-16 07:43:02 [main] INFO  com.example.listeners.CustomListener - Test context started: API & Database Tests
+2025-04-16 07:43:02 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.ApiTest.testCreateUser
+2025-04-16 07:43:03 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.ApiTest.testCreateUser
+2025-04-16 07:43:03 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DatabaseTest.testOrmSaveAndLoad
+2025-04-16 07:43:04 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.15.Final
+2025-04-16 07:43:04 [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2025-04-16 07:43:04 [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2025-04-16 07:43:04 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:testdb;DB_CLOSE_DELAY=-1]
+2025-04-16 07:43:04 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {}
+2025-04-16 07:43:04 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2025-04-16 07:43:04 [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+2025-04-16 07:43:04 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2025-04-16 07:43:05 [main] INFO  org.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@75a6bd06] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2025-04-16 07:43:05 [main] INFO  org.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@c79915a] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2025-04-16 07:43:05 [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2025-04-16 07:43:05 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DatabaseTest.testOrmSaveAndLoad
+2025-04-16 07:43:05 [main] INFO  com.example.listeners.CustomListener - Test context started: UI Tests
+2025-04-16 07:43:05 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.setupClass
+2025-04-16 07:43:05 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.setupClass
+2025-04-16 07:43:05 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.setup
+2025-04-16 07:43:06 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.setup
+2025-04-16 07:43:06 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.initPages
+2025-04-16 07:43:06 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.initPages
+2025-04-16 07:43:06 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.testLogin
+2025-04-16 07:43:22 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.testLogin
+2025-04-16 07:43:22 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.teardown
+2025-04-16 07:43:22 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.teardown
+2025-04-16 07:43:22 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.setup
+2025-04-16 07:43:23 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.setup
+2025-04-16 07:43:23 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.initPages
+2025-04-16 07:43:23 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.initPages
+2025-04-16 07:43:23 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.testLogin
+2025-04-16 07:43:39 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.testLogin
+2025-04-16 07:43:39 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.teardown
+2025-04-16 07:43:39 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.teardown
+2025-04-16 07:43:39 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.setupClass
+2025-04-16 07:43:39 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.setupClass
+2025-04-16 07:43:39 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.setup
+2025-04-16 07:43:40 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.setup
+2025-04-16 07:43:40 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.initPages
+2025-04-16 07:43:40 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.initPages
+2025-04-16 07:43:40 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.testAboutUsModal
+2025-04-16 07:43:51 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.testAboutUsModal
+2025-04-16 07:43:51 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.teardown
+2025-04-16 07:43:51 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.teardown
+2025-04-16 07:43:51 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.setupClass
+2025-04-16 07:43:51 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.setupClass
+2025-04-16 07:43:51 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.setup
+2025-04-16 07:43:52 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.setup
+2025-04-16 07:43:52 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.initPage
+2025-04-16 07:43:52 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.initPage
+2025-04-16 07:43:52 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.testDropdownSelections
+2025-04-16 07:44:07 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.testDropdownSelections
+2025-04-16 07:44:07 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.teardown
+2025-04-16 07:44:07 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.teardown
+2025-04-16 07:44:07 [main] INFO  com.example.listeners.CustomListener - Suite finished: DemoBlazeSuite
+2025-04-16 07:44:07 [main] INFO  com.example.listeners.CustomListener - === Execution finished ===
+2025-04-16 07:54:02 [main] INFO  com.example.listeners.CustomListener - === Execution started ===
+2025-04-16 07:54:02 [main] INFO  com.example.listeners.CustomListener - Suite started: DemoBlazeSuite
+2025-04-16 07:54:02 [main] INFO  com.example.listeners.CustomListener - Test context started: API & Database Tests
+2025-04-16 07:54:03 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.ApiTest.testCreateUser
+2025-04-16 07:54:04 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.ApiTest.testCreateUser
+2025-04-16 07:54:04 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DatabaseTest.testOrmSaveAndLoad
+2025-04-16 07:54:04 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.15.Final
+2025-04-16 07:54:04 [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2025-04-16 07:54:05 [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2025-04-16 07:54:05 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:mem:testdb;DB_CLOSE_DELAY=-1]
+2025-04-16 07:54:05 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {}
+2025-04-16 07:54:05 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2025-04-16 07:54:05 [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+2025-04-16 07:54:05 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2025-04-16 07:54:05 [main] INFO  org.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@76ee7301] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2025-04-16 07:54:05 [main] INFO  org.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@68af8288] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2025-04-16 07:54:05 [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2025-04-16 07:54:05 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DatabaseTest.testOrmSaveAndLoad
+2025-04-16 07:54:05 [main] INFO  com.example.listeners.CustomListener - Test context started: UI Tests
+2025-04-16 07:54:05 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.setupClass
+2025-04-16 07:54:05 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.setupClass
+2025-04-16 07:54:05 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.setup
+2025-04-16 07:54:07 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.setup
+2025-04-16 07:54:07 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.initPages
+2025-04-16 07:54:07 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.initPages
+2025-04-16 07:54:07 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.testLogin
+2025-04-16 07:54:23 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.testLogin
+2025-04-16 07:54:23 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.teardown
+2025-04-16 07:54:23 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.teardown
+2025-04-16 07:54:23 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.setup
+2025-04-16 07:54:23 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.setup
+2025-04-16 07:54:23 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.initPages
+2025-04-16 07:54:23 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.initPages
+2025-04-16 07:54:23 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.testLogin
+2025-04-16 07:54:39 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.testLogin
+2025-04-16 07:54:39 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.LoginTest.teardown
+2025-04-16 07:54:39 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.LoginTest.teardown
+2025-04-16 07:54:39 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.setupClass
+2025-04-16 07:54:39 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.setupClass
+2025-04-16 07:54:39 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.setup
+2025-04-16 07:54:40 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.setup
+2025-04-16 07:54:40 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.initPages
+2025-04-16 07:54:40 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.initPages
+2025-04-16 07:54:40 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.testAboutUsModal
+2025-04-16 07:54:51 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.testAboutUsModal
+2025-04-16 07:54:51 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.AboutUsTest.teardown
+2025-04-16 07:54:51 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.AboutUsTest.teardown
+2025-04-16 07:54:51 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.setupClass
+2025-04-16 07:54:51 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.setupClass
+2025-04-16 07:54:51 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.setup
+2025-04-16 07:54:52 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.setup
+2025-04-16 07:54:52 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.initPage
+2025-04-16 07:54:52 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.initPage
+2025-04-16 07:54:52 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.testDropdownSelections
+2025-04-16 07:55:08 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.testDropdownSelections
+2025-04-16 07:55:08 [main] INFO  com.example.listeners.CustomListener - Before invocation: com.example.tests.DropdownTest.teardown
+2025-04-16 07:55:08 [main] INFO  com.example.listeners.CustomListener - After invocation: com.example.tests.DropdownTest.teardown
+2025-04-16 07:55:08 [main] INFO  com.example.listeners.CustomListener - Suite finished: DemoBlazeSuite
+2025-04-16 07:55:08 [main] INFO  com.example.listeners.CustomListener - === Execution finished ===

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-16T07:54:02 EEST" name="DemoBlazeSuite" finished-at="2025-04-16T07:55:08 EEST" duration-ms="65589">
+    <groups>
+    </groups>
+    <test started-at="2025-04-16T07:54:02 EEST" name="API &amp; Database Tests" finished-at="2025-04-16T07:54:05 EEST" duration-ms="2737">
+      <class name="com.example.tests.DatabaseTest">
+        <test-method signature="testOrmSaveAndLoad()[pri:0, instance:com.example.tests.DatabaseTest@4a9f80d3]" started-at="2025-04-16T07:54:04 EEST" name="testOrmSaveAndLoad" finished-at="2025-04-16T07:54:05 EEST" duration-ms="1112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOrmSaveAndLoad -->
+      </class> <!-- com.example.tests.DatabaseTest -->
+      <class name="com.example.tests.ApiTest">
+        <test-method signature="testCreateUser()[pri:0, instance:com.example.tests.ApiTest@2289aca5]" started-at="2025-04-16T07:54:02 EEST" name="testCreateUser" finished-at="2025-04-16T07:54:04 EEST" duration-ms="1570" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateUser -->
+      </class> <!-- com.example.tests.ApiTest -->
+    </test> <!-- API & Database Tests -->
+    <test started-at="2025-04-16T07:54:05 EEST" name="UI Tests" finished-at="2025-04-16T07:55:08 EEST" duration-ms="62827">
+      <class name="com.example.tests.DropdownTest">
+        <test-method is-config="true" signature="setupClass()[pri:0, instance:com.example.tests.DropdownTest@5db4c359]" started-at="2025-04-16T07:54:51 EEST" name="setupClass" finished-at="2025-04-16T07:54:51 EEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupClass -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.example.tests.DropdownTest@5db4c359]" started-at="2025-04-16T07:54:51 EEST" name="setup" finished-at="2025-04-16T07:54:52 EEST" duration-ms="606" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="initPage()[pri:0, instance:com.example.tests.DropdownTest@5db4c359]" started-at="2025-04-16T07:54:52 EEST" name="initPage" finished-at="2025-04-16T07:54:52 EEST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initPage -->
+        <test-method signature="testDropdownSelections()[pri:0, instance:com.example.tests.DropdownTest@5db4c359]" started-at="2025-04-16T07:54:52 EEST" name="testDropdownSelections" finished-at="2025-04-16T07:55:08 EEST" duration-ms="15747" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDropdownSelections -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.example.tests.DropdownTest@5db4c359]" started-at="2025-04-16T07:55:08 EEST" name="teardown" finished-at="2025-04-16T07:55:08 EEST" duration-ms="232" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.example.tests.DropdownTest -->
+      <class name="com.example.tests.LoginTest">
+        <test-method is-config="true" signature="setupClass()[pri:0, instance:com.example.tests.LoginTest@332a7fce]" started-at="2025-04-16T07:54:05 EEST" name="setupClass" finished-at="2025-04-16T07:54:05 EEST" duration-ms="153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupClass -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.example.tests.LoginTest@332a7fce]" started-at="2025-04-16T07:54:05 EEST" name="setup" finished-at="2025-04-16T07:54:07 EEST" duration-ms="1129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="initPages()[pri:0, instance:com.example.tests.LoginTest@332a7fce]" started-at="2025-04-16T07:54:07 EEST" name="initPages" finished-at="2025-04-16T07:54:07 EEST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initPages -->
+        <test-method signature="testLogin(java.lang.String,java.lang.String)[pri:0, instance:com.example.tests.LoginTest@332a7fce]" started-at="2025-04-16T07:54:07 EEST" name="testLogin" data-provider="loginData" finished-at="2025-04-16T07:54:23 EEST" duration-ms="16012" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.example.tests.LoginTest@332a7fce]" started-at="2025-04-16T07:54:23 EEST" name="teardown" finished-at="2025-04-16T07:54:23 EEST" duration-ms="187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.example.tests.LoginTest@332a7fce]" started-at="2025-04-16T07:54:23 EEST" name="setup" finished-at="2025-04-16T07:54:23 EEST" duration-ms="626" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testLogin(java.lang.String,java.lang.String)[pri:0, instance:com.example.tests.LoginTest@332a7fce]" started-at="2025-04-16T07:54:23 EEST" name="testLogin" data-provider="loginData" finished-at="2025-04-16T07:54:39 EEST" duration-ms="15781" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method is-config="true" signature="initPages()[pri:0, instance:com.example.tests.LoginTest@332a7fce]" started-at="2025-04-16T07:54:23 EEST" name="initPages" finished-at="2025-04-16T07:54:23 EEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initPages -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.example.tests.LoginTest@332a7fce]" started-at="2025-04-16T07:54:39 EEST" name="teardown" finished-at="2025-04-16T07:54:39 EEST" duration-ms="188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.example.tests.LoginTest -->
+      <class name="com.example.tests.AboutUsTest">
+        <test-method is-config="true" signature="setupClass()[pri:0, instance:com.example.tests.AboutUsTest@2c177f9e]" started-at="2025-04-16T07:54:39 EEST" name="setupClass" finished-at="2025-04-16T07:54:39 EEST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupClass -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.example.tests.AboutUsTest@2c177f9e]" started-at="2025-04-16T07:54:39 EEST" name="setup" finished-at="2025-04-16T07:54:40 EEST" duration-ms="609" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testAboutUsModal()[pri:0, instance:com.example.tests.AboutUsTest@2c177f9e]" started-at="2025-04-16T07:54:40 EEST" name="testAboutUsModal" description="Відкриваємо About Us та перевіряємо заголовок модалки" finished-at="2025-04-16T07:54:51 EEST" duration-ms="11263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAboutUsModal -->
+        <test-method is-config="true" signature="initPages()[pri:0, instance:com.example.tests.AboutUsTest@2c177f9e]" started-at="2025-04-16T07:54:40 EEST" name="initPages" finished-at="2025-04-16T07:54:40 EEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initPages -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.example.tests.AboutUsTest@2c177f9e]" started-at="2025-04-16T07:54:51 EEST" name="teardown" finished-at="2025-04-16T07:54:51 EEST" duration-ms="204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.example.tests.AboutUsTest -->
+    </test> <!-- UI Tests -->
+  </suite> <!-- DemoBlazeSuite -->
+</testng-results>

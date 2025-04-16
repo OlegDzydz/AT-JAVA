@@ -1,0 +1,9 @@
+List of artifacts in your project:
+# DriverPool for multiple drivers (at least chrome and firefox) (Task_10)
+# PageObject architecture with TC->BO->PO layers (for API - TC-BO) (Task_11)
+# PageFactory and WebElement Wrappers (Task_12)
+# Use DataProvider for different sets of test data (Task_8)
+# ORM for test data generation or/and data validation or/and saving test results. (Task_6,Task_7)
+# At least 3 end-to-end WEB UI test scenarios (Task_11)
+# Allure + logging with attachments: JSON for PTI and Screen for UI (Task_14)
+

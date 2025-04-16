@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="DemoBlazeSuite">
+  <listeners>
+    <listener class-name="io.qameta.allure.testng.AllureTestNg"/>
+    <listener class-name="com.example.listeners.AllureAttachmentListener"/>
+    <listener class-name="com.example.listeners.CustomListener"/>
+  </listeners>
+
+  <!-- Замість "API & Database Tests" пишемо "API &amp; Database Tests" -->
+  <test name="API &amp; Database Tests">
+    <classes>
+      <class name="com.example.tests.ApiTest"/>
+      <class name="com.example.tests.DatabaseTest"/>
+    </classes>
+  </test>
+
+  <test name="UI Tests">
+    <classes>
+      <class name="com.example.tests.LoginTest"/>
+      <class name="com.example.tests.AboutUsTest"/>
+      <class name="com.example.tests.DropdownTest"/>
+    </classes>
+  </test>
+</suite>
